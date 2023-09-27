@@ -2,4 +2,4 @@
 
 <h3 align="center"> Desafio do Projeto - Construindo um Simulador de Piano com Javascript </h3>
 
-<a href="https://alderj.github.io/simulador-piano/"> <img src="" /> </a>
+<a href="https://alderj.github.io/simulador-piano/"> <img src="https://github.com/Alderj/simulador-piano/blob/main/src/preview.png?raw=true" /> </a>
